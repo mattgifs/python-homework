@@ -1,3 +1,13 @@
+# Mod 7 Assignment
+
+## Data Engineering Portion
+Please see /DatabaseSetup for the following files:
+- db_diagram_input.md (text input used to generate diagram)
+- db_diagram.png (completed ERD)
+- db_setup_and_seed.sql (table creation and seed data used)
+
+## Data Analysis Pt 1 (sql queries and view creation in data_analysis_pt1.sql)
+
 ### Some fraudsters hack a credit card by making several small transactions (generally less than $2.00), which are typically ignored by cardholders.
 - How can you isolate (or group) the transactions of each cardholder?
     ** Please see data_analysis_pt1.sql ** 
@@ -7,8 +17,6 @@
 
 - Is there any evidence to suggest that a credit card has been hacked? Explain your rationale.
 Judging by the resulting table alone, there is not enough evidence to identify fraudulent activity. However, it may be worth further investigating those customers with the highest number of transactions under $2; Cardholders 10, 11, 12, 19, and 24 all have 20 or more of these transactions. 
-
-
 
 ### Take your investigation a step futher by considering the time period in which potentially fraudulent transactions are made.
 
@@ -31,3 +39,9 @@ The hours with the greatest number of transactions over $700 are 3pm (7 transact
 145	"Hood-Phillips"	"bar"	6
 129	"Sweeney-Paul"	"coffee shop"	5
 149	"Clark and Sons"	"food truck"	5
+
+## Data Analysis Pt 2
+Answers are inline with the code in visual_data_analysis.ipynb
+
+## Challenge 
+I was unable to complete the challenge assignment this time around. 
