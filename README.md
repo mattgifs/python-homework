@@ -28,3 +28,6 @@ Each assignment can be found at the location(s) specified below:
 * Mod11Challenge
   * [DONE_forecasting_net_prophet.ipynb](https://github.com/mattgifs/python-homework/blob/main/Mod11Challenge/Starter_Code/DONE_forecasting_net_prophet.ipynb)
 
+* Mod12Challenge
+  * [Analysis](https://github.com/mattgifs/python-homework/blob/main/Mod12Challenge/Starter_Code/credit_risk_resampling.ipynb)
+  * [Report](https://github.com/mattgifs/python-homework/blob/main/Mod12Challenge/Starter_Code/report-template-complete.md)
