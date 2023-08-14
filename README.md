@@ -35,3 +35,9 @@ Each assignment can be found at the location(s) specified below:
 * Mod13Challenge
   * [Notebook](https://github.com/mattgifs/python-homework/blob/main/Mod13Challenge/venture_funding_with_deep_learning.ipynb)
   * [Saved Models](https://github.com/mattgifs/python-homework/tree/main/Mod13Challenge/saved_models)
+ 
+* Mod18Challenge
+  * [pychain.py](https://github.com/mattgifs/python-homework/blob/main/Mod18Challenge/pychain.py)
+    * In setup for streamlit cache, I changed 'st.cache' to 'st.cache_resource' since the former is being decremented (I got a warning message). Functionality seems to be retained after that change.
+  * [Streamlit App Validation Image](https://github.com/mattgifs/python-homework/blob/main/Mod18Challenge/mod18_validation.png)
+    * Multiple blocks added with different difficulty settings. The 'True' print near the bottom of the screen indicates a pass of the validation test.  
