@@ -40,4 +40,13 @@ Each assignment can be found at the location(s) specified below:
   * [pychain.py](https://github.com/mattgifs/python-homework/blob/main/Mod18Challenge/pychain.py)
     * In setup for streamlit cache, I changed 'st.cache' to 'st.cache_resource' since the former is being decremented (I got a warning message). Functionality seems to be retained after that change.
   * [Streamlit App Validation Image](https://github.com/mattgifs/python-homework/blob/main/Mod18Challenge/mod18_validation.png)
-    * Multiple blocks added with different difficulty settings. The 'True' print near the bottom of the screen indicates a pass of the validation test.  
+    * Multiple blocks added with different difficulty settings. The 'True' print near the bottom of the screen indicates a pass of the validation test.
+
+* Mod19Challenge
+  * [ChallengeRepo](https://github.com/mattgifs/python-homework/tree/main/Mod19Challenge)
+    * NOTE: In setting up the raw_tx dictionary in crypto_wallet.py, I had to change 'gasPrice' from the default 0. The original value produced an error when running the streamlit app, and the new value was inferred from that error.
+  * [Streamlit Validated Transaction](https://github.com/mattgifs/python-homework/blob/main/Mod19Challenge/ScreenShots/streamlit_kryptojobs_validatedtransactionhash.png)
+  * [My Ganache Account Balance(after transaction)](https://github.com/mattgifs/python-homework/blob/main/Mod19Challenge/ScreenShots/ganache_acct_bal.png)
+  * [My Ganache Account Transaction History](https://github.com/mattgifs/python-homework/blob/main/Mod19Challenge/ScreenShots/ganache_acct_transaction_history.png)
+  * [Transaction Details](https://github.com/mattgifs/python-homework/blob/main/Mod19Challenge/ScreenShots/transaction_details.png)
+  * The instructions were unclear as to how I could view the account balance of the recipient; I could not find a way to click their address and see the balance. Was I supposed to change the candidates' addresses from what is listed in krypto_jobs.py to the ones listed in my ganache workspace?
