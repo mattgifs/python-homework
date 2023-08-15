@@ -38,7 +38,7 @@ Each assignment can be found at the location(s) specified below:
 
 * Mod14Challenge
   * [Notebook](https://github.com/mattgifs/python-homework/blob/main/Mod14Challenge/Starter_Code/machine_learning_trading_bot.ipynb)
-    * Please see this notebook for inline answers to questions
+    * Please see this notebook for inline conclusions and final summary
   * [Baseline Performance](https://github.com/mattgifs/python-homework/blob/main/Mod14Challenge/Starter_Code/Screenshots/baseline_cumulative_returns.png)
   * [Best Tuning Result (6mo Training)](https://github.com/mattgifs/python-homework/blob/main/Mod14Challenge/Starter_Code/Screenshots/6motrain_cumulative_returns.png)
   * [AdaBoostClassification Model](https://github.com/mattgifs/python-homework/blob/main/Mod14Challenge/Starter_Code/Screenshots/adaboost_cumulative_returns.png)
