@@ -57,3 +57,9 @@ Each assignment can be found at the location(s) specified below:
   * [My Ganache Account Transaction History](https://github.com/mattgifs/python-homework/blob/main/Mod19Challenge/ScreenShots/ganache_acct_transaction_history.png)
   * [Transaction Details](https://github.com/mattgifs/python-homework/blob/main/Mod19Challenge/ScreenShots/transaction_details.png)
   * The instructions were unclear as to how I could view the account balance of the recipient; I could not find a way to click their address and see the balance. Was I supposed to change the candidates' addresses from what is listed in krypto_jobs.py to the ones listed in my ganache workspace?
+ 
+* [Mod20Challenge](https://github.com/mattgifs/python-homework/tree/main/Mod20Challenge)
+  * [Completed Contract Code (joint_savings.sol)](https://github.com/mattgifs/python-homework/blob/main/Mod20Challenge/joint_savings.sol)
+  * [Execution Results](https://github.com/mattgifs/python-homework/tree/main/Mod20Challenge/Execution_Results)
+    * I only have 7 screencaps (versus the required 8), but I believe I captured everything I was supposed to while interacting with the contract. 
+
